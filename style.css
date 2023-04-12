@@ -35,8 +35,8 @@ hr {
 }
 
 .btn-primary {
-  background-color: #f05f44!import;
-  border-color: #f05f44!import;
+  background-color: #f05f44!important;
+  border-color: #f05f44!important;
  /* --bs-btn-hover-bg: #ee4b08;
   --bs-btn-hover-color: #ee4b08;*/
 }
